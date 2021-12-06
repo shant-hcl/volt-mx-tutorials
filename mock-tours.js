@@ -53,7 +53,7 @@ fs.mkdir(`${MOCK_PATH}/tour/details`, { recursive: true }, (err) => {
           tours.forEach((tour) => {
             // mock response of each hike/tour details
 
-            const download_url = `https://raw.githubusercontent.com/shant-hcl/volt-mx-tutorials/${BASE_BRANCH}/public/contents/${directory}/zips/${tour.fileName}`;
+            const download_url = `https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/${BASE_BRANCH}/public/contents/${directory}/zips/${tour.fileName}`;
 
             // remove fileURL key
             delete tour.fileURL;
