@@ -1,0 +1,25 @@
+{
+  "tourDetails": {
+    "nid": 24828,
+    "title": "Internationalization with Layout",
+    "created": 1608540205,
+    "updated": 1608540205,
+    "fileSize": "33.85 KB",
+    "fileName": "internationalizationwithlayout92.zip",
+    "fid": 17648,
+    "checksum": "8ae3836a65bc03eab7afff931736d116039f92b3191ac6aa2bf982e7a3eba8a8",
+    "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/internationalization-layout-1",
+    "alias": "hikes/tour/internationalization-layout-1",
+    "description": "Learn the basics of Internationalization(i18n) with layout configuration changes.",
+    "details": "<p><!--StartFragment--></p> <p><!--StartFragment--></p> <p>This learning module is a Volt MX Hike.&nbsp;A Hike is an interactive tour in Volt MX Iris that guides you through a step-by-step process of each module. You can access the Hikes catalog by clicking the Hikes icon in the Iris toolbar.</p> <p>Learn how to:</p> <ul> <li>Configure an app for different locales</li> <li>View the locale and layout changes for the app on a device</li> </ul> <p><!--EndFragment--></p> <p><!--EndFragment--></p>",
+    "cards": 20,
+    "time": "17 Mins",
+    "platformVersion": "Iris 9.2",
+    "category": [],
+    "image": "/default/hike-default.png",
+    "kuid": "5ff7b4ta-15a6-4ar8-87ue-c2cdf7n8",
+    "hikeVersion": "1.0",
+    "weight": "12",
+    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/4-develop-the-front-end/zips/internationalizationwithlayout92.zip"
+  }
+}

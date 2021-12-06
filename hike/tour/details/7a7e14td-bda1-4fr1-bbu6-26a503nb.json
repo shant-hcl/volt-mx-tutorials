@@ -1,0 +1,25 @@
+{
+  "tourDetails": {
+    "nid": 24430,
+    "title": "Introduction to Volt MX JavaScript",
+    "created": 1585629482,
+    "updated": 1586944403,
+    "fileSize": "25.72 KB",
+    "fileName": "introductiontoVoltMXjavascriptv9.zip",
+    "fid": 17153,
+    "checksum": "2351889c30307cfac30272e8d91c6e570df677cb2da7c14da86e0f04e5307cdc",
+    "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/introduction-quantum-javascript",
+    "alias": "hikes/tour/introduction-quantum-javascript",
+    "description": "Understanding the basics of Volt MX JavaScript.",
+    "details": "<p><!--StartFragment--></p> <div> <div> <p>This learning module is a Volt MX HIKE.&nbsp; A HIKE is an interactive tour inside Volt MX Iris that guides you through step-by-step process of each module. You can access the HIKES catalog by clicking the Hike icon in the Iris toolbar.</p> <p>&nbsp;Learn how to:</p> <ul> <li>Use JavaScript to create a login form</li> <li>Get insights on the validate and onNavigate functions</li> </ul> </div> </div> <p><!--EndFragment--></p>",
+    "cards": 16,
+    "time": "20 Mins",
+    "platformVersion": "Iris 9.0",
+    "category": [],
+    "image": "/default/hike-default.png",
+    "kuid": "7a7e14td-bda1-4fr1-bbu6-26a503nb",
+    "hikeVersion": "1.0",
+    "weight": "10",
+    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/4-develop-the-front-end/zips/introductiontoVoltMXjavascriptv9.zip"
+  }
+}

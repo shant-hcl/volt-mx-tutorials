@@ -1,0 +1,25 @@
+{
+  "tourDetails": {
+    "nid": 24416,
+    "title": "Connect App UI to Data",
+    "created": 1585628202,
+    "updated": 1615280556,
+    "fileSize": "24.57 KB",
+    "fileName": "connecttheappuitodata-webv9.zip",
+    "fid": 17797,
+    "checksum": "0d96d4e278f3f365ce977826b3b7d16001865f8bf03ac88f8c93c7cff41f3f21",
+    "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/connect-app-ui-data-0",
+    "alias": "hikes/tour/connect-app-ui-data-0",
+    "description": "Connect App UI to Data",
+    "details": "<p><!--StartFragment--></p> <div> <div> <p>This learning module is a Volt MX HIKE.  A HIKE is an interactive tour inside Volt MX Iris that guides you through step-by-step process of each module. You can access the HIKES catalog by clicking the Hike icon in the Iris toolbar:&nbsp;</p> <p> &nbsp;</p> <p>Learn how to:&nbsp;</p> <ul> <li>Connect services with the Account form</li> <li>Connect services with the&nbsp;Recipient&nbsp;form</li> </ul> </div> </div> <p><!--EndFragment--></p>",
+    "cards": 13,
+    "time": "15 Mins",
+    "platformVersion": "Iris 9.0",
+    "category": [],
+    "image": "/default/hike-default.png",
+    "kuid": "ca148ftd-07a9-4ard-98ud-6163d4nc",
+    "hikeVersion": "1.0",
+    "weight": "5",
+    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/3-build-your-first-web-app/zips/connecttheappuitodata-webv9.zip"
+  }
+}

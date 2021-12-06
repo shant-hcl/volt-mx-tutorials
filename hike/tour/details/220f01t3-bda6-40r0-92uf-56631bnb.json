@@ -1,0 +1,25 @@
+{
+  "tourDetails": {
+    "nid": 24413,
+    "title": "Create UI from Collections",
+    "created": 1585628000,
+    "updated": 1586946655,
+    "fileSize": "32.13 KB",
+    "fileName": "createuifromcollections-web.zip",
+    "fid": 17161,
+    "checksum": "e1068256bc121b5974e3e36db106894f8e7a13dd4ff9836a2382c5b7ab9d9de9",
+    "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/create-ui-collections-0",
+    "alias": "hikes/tour/create-ui-collections-0",
+    "description": "Create the user interface for an app with Volt MX Iris",
+    "details": "<p><!--StartFragment--></p> <div> <div> <p>This learning module is a Volt MX HIKE.  A HIKE is an interactive tour inside Volt MX Iris that guides you through step-by-step process of each module. You can access the HIKES catalog by clicking the Hike icon in the Iris toolbar:&nbsp;</p> <p> &nbsp;</p> <p>Learn how to:&nbsp;</p> <ul> <li>Create Responsive Web forms with UI elements for user interaction</li> <li>Add navigation to access the different forms of the app</li> </ul> </div> </div> <p><!--EndFragment--></p>",
+    "cards": 20,
+    "time": "20 Mins",
+    "platformVersion": "Iris 9.0",
+    "category": [],
+    "image": "/default/hike-default.png",
+    "kuid": "220f01t3-bda6-40r0-92uf-56631bnb",
+    "hikeVersion": "1.0",
+    "weight": "2",
+    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/3-build-your-first-web-app/zips/createuifromcollections-web.zip"
+  }
+}

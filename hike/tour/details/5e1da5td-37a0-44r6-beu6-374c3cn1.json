@@ -1,0 +1,25 @@
+{
+  "tourDetails": {
+    "nid": 24414,
+    "title": "Add Authentication",
+    "created": 1585628068,
+    "updated": 1586946699,
+    "fileSize": "29.58 KB",
+    "fileName": "addauthenticationtoyourapp_v9.zip",
+    "fid": 17162,
+    "checksum": "b86b3c4a829a5d7dbecc14d086abad0c67ebfc7405b978de297bcc6d479d632c",
+    "url": "https://opensource.hcltechsw.com/volt-mx-tutorials/hikes/tour/add-authentication-0",
+    "alias": "hikes/tour/add-authentication-0",
+    "description": "Secure an app’s data with a user-authentication mechanism.",
+    "details": "<p><!--StartFragment--></p> <div> <div> <p>This learning module is a Volt MX HIKE.  A HIKE is an interactive tour inside Volt MX Iris that guides you through step-by-step process of each module. You can access the HIKES catalog by clicking the Hike icon in the Iris toolbar:&nbsp;</p> <p> &nbsp;</p> <p>Learn how to:&nbsp;</p> <ul> <li>Learn to configure an Identity Service</li> <li>Map the identity service to the UI elements of an app</li> </ul> </div> </div> <p><!--EndFragment--></p>",
+    "cards": 17,
+    "time": "15 Mins",
+    "platformVersion": "Iris 9.0",
+    "category": [],
+    "image": "/default/hike-default.png",
+    "kuid": "5e1da5td-37a0-44r6-beu6-374c3cn1",
+    "hikeVersion": "1.0",
+    "weight": "3",
+    "download_url": "https://raw.githubusercontent.com/HCL-TECH-SOFTWARE/volt-mx-tutorials/master/public/contents/3-build-your-first-web-app/zips/addauthenticationtoyourapp_v9.zip"
+  }
+}
